@@ -9,6 +9,7 @@
 1. install ruby
 2. gem install ld
 3. update main.rb, and run `main.rb example`
+4. make PR
 
 ## How to pack .rb to .exe
 1. gem install ocra
